@@ -1,0 +1,8 @@
+PB free energy, last 5 ns, T790M seed1 comparison
+&general
+  startframe=251, endframe=500, interval=1,
+  verbose=2, keep_files=0,
+/
+&pb
+  inp=2, radiopt=0, istrng=0.150,
+/

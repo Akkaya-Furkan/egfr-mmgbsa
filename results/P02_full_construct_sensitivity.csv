@@ -1,0 +1,4 @@
+genotype,dG_mean,dG_sd,EEL_mean,EGB_mean,dG_common_mean,shift_common_minus_full
+WT,-41.73,7.28,-129.12,141.9,-41.09,0.64
+T790M,-55.78,4.23,-17.68,27.05,-55.78,0.0
+C797S_triple,-41.33,3.31,-121.76,134.52,-40.78,0.55

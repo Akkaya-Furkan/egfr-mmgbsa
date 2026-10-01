@@ -1,0 +1,461 @@
+[
+  {
+    "genotype": "WT",
+    "ligand": "erlotinib",
+    "seed": 1,
+    "top_score_kcal_mol": -7.13,
+    "all_scores_kcal_mol": [
+      -7.13,
+      -7.09,
+      -6.86,
+      -6.81,
+      -6.69,
+      -6.54,
+      -6.5,
+      -6.49,
+      -6.37
+    ]
+  },
+  {
+    "genotype": "WT",
+    "ligand": "erlotinib",
+    "seed": 2,
+    "top_score_kcal_mol": -7.31,
+    "all_scores_kcal_mol": [
+      -7.31,
+      -7.16,
+      -6.96,
+      -6.83,
+      -6.79,
+      -6.76,
+      -6.63,
+      -6.44,
+      -6.39
+    ]
+  },
+  {
+    "genotype": "WT",
+    "ligand": "erlotinib",
+    "seed": 3,
+    "top_score_kcal_mol": -6.99,
+    "all_scores_kcal_mol": [
+      -6.99,
+      -6.99,
+      -6.91,
+      -6.6,
+      -6.31,
+      -6.2,
+      -6.13,
+      -6.02,
+      -6.01
+    ]
+  },
+  {
+    "genotype": "WT",
+    "ligand": "gefitinib",
+    "seed": 1,
+    "top_score_kcal_mol": -8.21,
+    "all_scores_kcal_mol": [
+      -8.21,
+      -8.15,
+      -8.05,
+      -8.0,
+      -7.62,
+      -7.17,
+      -6.83,
+      -6.73,
+      -6.72
+    ]
+  },
+  {
+    "genotype": "WT",
+    "ligand": "gefitinib",
+    "seed": 2,
+    "top_score_kcal_mol": -8.17,
+    "all_scores_kcal_mol": [
+      -8.17,
+      -8.1,
+      -7.96,
+      -7.88,
+      -7.59,
+      -7.09,
+      -7.04,
+      -6.94,
+      -6.88
+    ]
+  },
+  {
+    "genotype": "WT",
+    "ligand": "gefitinib",
+    "seed": 3,
+    "top_score_kcal_mol": -8.11,
+    "all_scores_kcal_mol": [
+      -8.11,
+      -8.09,
+      -7.96,
+      -7.9,
+      -7.77,
+      -7.41,
+      -7.25,
+      -7.19,
+      -6.91
+    ]
+  },
+  {
+    "genotype": "WT",
+    "ligand": "osimertinib",
+    "seed": 1,
+    "top_score_kcal_mol": -7.97,
+    "all_scores_kcal_mol": [
+      -7.97,
+      -7.96,
+      -7.79,
+      -7.78,
+      -7.56,
+      -7.35,
+      -7.35,
+      -7.33,
+      -7.29
+    ]
+  },
+  {
+    "genotype": "WT",
+    "ligand": "osimertinib",
+    "seed": 2,
+    "top_score_kcal_mol": -7.65,
+    "all_scores_kcal_mol": [
+      -7.65,
+      -7.58,
+      -7.55,
+      -7.41,
+      -7.4,
+      -7.4,
+      -7.39,
+      -7.3,
+      -7.11
+    ]
+  },
+  {
+    "genotype": "WT",
+    "ligand": "osimertinib",
+    "seed": 3,
+    "top_score_kcal_mol": -8.0,
+    "all_scores_kcal_mol": [
+      -8.0,
+      -7.99,
+      -7.8,
+      -7.78,
+      -7.73,
+      -7.72,
+      -7.69,
+      -7.56,
+      -7.51
+    ]
+  },
+  {
+    "genotype": "T790M",
+    "ligand": "erlotinib",
+    "seed": 1,
+    "top_score_kcal_mol": -7.27,
+    "all_scores_kcal_mol": [
+      -7.27,
+      -7.03,
+      -6.91,
+      -6.89,
+      -6.8,
+      -6.76,
+      -6.55,
+      -6.41,
+      -6.32
+    ]
+  },
+  {
+    "genotype": "T790M",
+    "ligand": "erlotinib",
+    "seed": 2,
+    "top_score_kcal_mol": -7.21,
+    "all_scores_kcal_mol": [
+      -7.21,
+      -7.05,
+      -7.03,
+      -6.87,
+      -6.84,
+      -6.67,
+      -6.46,
+      -6.46,
+      -6.43
+    ]
+  },
+  {
+    "genotype": "T790M",
+    "ligand": "erlotinib",
+    "seed": 3,
+    "top_score_kcal_mol": -7.26,
+    "all_scores_kcal_mol": [
+      -7.26,
+      -7.07,
+      -6.88,
+      -6.73,
+      -6.72,
+      -6.7,
+      -6.52,
+      -6.46,
+      -6.43
+    ]
+  },
+  {
+    "genotype": "T790M",
+    "ligand": "gefitinib",
+    "seed": 1,
+    "top_score_kcal_mol": -7.74,
+    "all_scores_kcal_mol": [
+      -7.74,
+      -7.62,
+      -7.38,
+      -7.22,
+      -7.16,
+      -6.99,
+      -6.96,
+      -6.96,
+      -6.78
+    ]
+  },
+  {
+    "genotype": "T790M",
+    "ligand": "gefitinib",
+    "seed": 2,
+    "top_score_kcal_mol": -7.72,
+    "all_scores_kcal_mol": [
+      -7.72,
+      -7.67,
+      -7.63,
+      -7.4,
+      -7.35,
+      -6.93,
+      -6.85,
+      -6.81,
+      -6.64
+    ]
+  },
+  {
+    "genotype": "T790M",
+    "ligand": "gefitinib",
+    "seed": 3,
+    "top_score_kcal_mol": -7.73,
+    "all_scores_kcal_mol": [
+      -7.73,
+      -7.71,
+      -7.69,
+      -7.45,
+      -7.37,
+      -7.22,
+      -7.11,
+      -7.06,
+      -7.03
+    ]
+  },
+  {
+    "genotype": "T790M",
+    "ligand": "osimertinib",
+    "seed": 1,
+    "top_score_kcal_mol": -8.89,
+    "all_scores_kcal_mol": [
+      -8.89,
+      -8.64,
+      -8.41,
+      -8.37,
+      -8.24,
+      -7.99,
+      -7.95,
+      -7.86,
+      -7.55
+    ]
+  },
+  {
+    "genotype": "T790M",
+    "ligand": "osimertinib",
+    "seed": 2,
+    "top_score_kcal_mol": -8.72,
+    "all_scores_kcal_mol": [
+      -8.72,
+      -8.65,
+      -8.44,
+      -8.39,
+      -8.19,
+      -8.08,
+      -7.97,
+      -7.84,
+      -7.82
+    ]
+  },
+  {
+    "genotype": "T790M",
+    "ligand": "osimertinib",
+    "seed": 3,
+    "top_score_kcal_mol": -8.8,
+    "all_scores_kcal_mol": [
+      -8.8,
+      -8.5,
+      -8.49,
+      -8.43,
+      -8.42,
+      -8.42,
+      -8.24,
+      -8.01,
+      -7.87
+    ]
+  },
+  {
+    "genotype": "C797S_triple",
+    "ligand": "erlotinib",
+    "seed": 1,
+    "top_score_kcal_mol": -6.78,
+    "all_scores_kcal_mol": [
+      -6.78,
+      -6.69,
+      -6.42,
+      -6.4,
+      -6.38,
+      -6.33,
+      -6.3,
+      -6.28,
+      -6.27
+    ]
+  },
+  {
+    "genotype": "C797S_triple",
+    "ligand": "erlotinib",
+    "seed": 2,
+    "top_score_kcal_mol": -6.73,
+    "all_scores_kcal_mol": [
+      -6.73,
+      -6.66,
+      -6.57,
+      -6.5,
+      -6.35,
+      -6.31,
+      -6.3,
+      -6.25,
+      -6.06
+    ]
+  },
+  {
+    "genotype": "C797S_triple",
+    "ligand": "erlotinib",
+    "seed": 3,
+    "top_score_kcal_mol": -6.89,
+    "all_scores_kcal_mol": [
+      -6.89,
+      -6.67,
+      -6.67,
+      -6.54,
+      -6.48,
+      -6.46,
+      -6.44,
+      -6.4,
+      -6.31
+    ]
+  },
+  {
+    "genotype": "C797S_triple",
+    "ligand": "gefitinib",
+    "seed": 1,
+    "top_score_kcal_mol": -7.99,
+    "all_scores_kcal_mol": [
+      -7.99,
+      -7.91,
+      -7.79,
+      -7.63,
+      -7.34,
+      -7.21,
+      -6.9,
+      -6.73,
+      -6.58
+    ]
+  },
+  {
+    "genotype": "C797S_triple",
+    "ligand": "gefitinib",
+    "seed": 2,
+    "top_score_kcal_mol": -7.99,
+    "all_scores_kcal_mol": [
+      -7.99,
+      -7.97,
+      -7.95,
+      -7.71,
+      -7.36,
+      -7.23,
+      -6.97,
+      -6.78,
+      -6.78
+    ]
+  },
+  {
+    "genotype": "C797S_triple",
+    "ligand": "gefitinib",
+    "seed": 3,
+    "top_score_kcal_mol": -7.76,
+    "all_scores_kcal_mol": [
+      -7.76,
+      -7.75,
+      -7.68,
+      -7.4,
+      -6.96,
+      -6.92,
+      -6.86,
+      -6.85,
+      -6.76
+    ]
+  },
+  {
+    "genotype": "C797S_triple",
+    "ligand": "osimertinib",
+    "seed": 1,
+    "top_score_kcal_mol": -8.77,
+    "all_scores_kcal_mol": [
+      -8.77,
+      -8.38,
+      -8.16,
+      -7.76,
+      -7.58,
+      -7.33,
+      -7.25,
+      -7.22,
+      -7.04
+    ]
+  },
+  {
+    "genotype": "C797S_triple",
+    "ligand": "osimertinib",
+    "seed": 2,
+    "top_score_kcal_mol": -8.66,
+    "all_scores_kcal_mol": [
+      -8.66,
+      -8.08,
+      -7.94,
+      -7.93,
+      -7.53,
+      -7.49,
+      -7.36,
+      -7.3,
+      -7.13
+    ]
+  },
+  {
+    "genotype": "C797S_triple",
+    "ligand": "osimertinib",
+    "seed": 3,
+    "top_score_kcal_mol": -8.59,
+    "all_scores_kcal_mol": [
+      -8.59,
+      -8.2,
+      -7.83,
+      -7.39,
+      -7.36,
+      -7.34,
+      -7.32,
+      -7.21,
+      -7.12
+    ]
+  }
+]

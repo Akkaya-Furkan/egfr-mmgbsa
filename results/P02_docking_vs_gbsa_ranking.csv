@@ -1,0 +1,4 @@
+genotype,docking_kcal_mol,dG_GBSA_mean,dG_GBSA_sd,docking_rank,GBSA_rank
+WT,-7.87,-43.54,15.11,3,2
+T790M,-8.8,-55.78,4.23,1,1
+L858R/T790M/C797S*,-8.67,-40.78,3.18,2,3

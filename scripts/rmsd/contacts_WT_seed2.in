@@ -1,0 +1,5 @@
+parm /mnt/HHD/portfolio-projects/P02-MMGBSA/system_WT.prmtop
+trajin /mnt/HHD/portfolio-projects/P02-MMGBSA/production_WT_seed2.dcd
+trajin /mnt/HHD/portfolio-projects/P02-MMGBSA/production_WT_seed2_ext1.dcd
+nativecontacts name NC :8-296&!@H :MOL&!@H distance 4.5 out contacts_WT_seed2.dat
+run

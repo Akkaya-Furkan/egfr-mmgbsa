@@ -1,0 +1,8 @@
+GB free energy, last 5 ns (frames 251-500, 20 ps spacing)
+&general
+  startframe=251, endframe=500, interval=1,
+  verbose=2, keep_files=0,
+/
+&gb
+  igb=5, saltcon=0.150,
+/

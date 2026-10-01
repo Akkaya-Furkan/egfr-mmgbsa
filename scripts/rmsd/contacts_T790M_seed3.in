@@ -1,0 +1,4 @@
+parm /mnt/HHD/portfolio-projects/P02-MMGBSA/system_T790M.prmtop
+trajin /mnt/HHD/portfolio-projects/P02-MMGBSA/production_T790M_seed3.dcd
+nativecontacts name NC :1-289&!@H :MOL&!@H distance 4.5 out contacts_T790M_seed3.dat
+run
