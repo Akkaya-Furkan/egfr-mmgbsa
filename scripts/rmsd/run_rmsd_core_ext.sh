@@ -1,7 +1,7 @@
 #!/bin/bash
 # WT extended: production (0-10 ns) + ext1 (10-20 ns), same core-CA fit as run_rmsd_core.sh
 set -uo pipefail
-CPPTRAJ=/home/furkanakkaya/.conda/envs/md_env/bin/cpptraj
+CPPTRAJ=${CPPTRAJ:-cpptraj}
 P02=/mnt/HHD/portfolio-projects/P02-MMGBSA
 cd "$(dirname "$0")"
 for s in 1 2 3; do

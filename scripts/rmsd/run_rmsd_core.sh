@@ -3,7 +3,7 @@
 # (694-700, 990-1020/1018) do not distort fit or RMSD. Ligand heavy-atom RMSD after core fit (nofit).
 # Tail CA RMSD (nofit, after core fit) is reported separately for WT and C797S_triple.
 set -uo pipefail
-CPPTRAJ=/home/furkanakkaya/.conda/envs/md_env/bin/cpptraj
+CPPTRAJ=${CPPTRAJ:-cpptraj}
 P02=/mnt/HHD/portfolio-projects/P02-MMGBSA
 cd "$(dirname "$0")"
 declare -A CORE=( [WT]="8-296" [T790M]="1-289" [C797S_triple]="6-294" )

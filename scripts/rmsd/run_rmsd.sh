@@ -2,7 +2,7 @@
 # P02 RMSD platosu: protein CA (ilk kareye hizalı) ve ligand ağır atom RMSD (protein hizasında, fit yok).
 # 9 trajektori, 500 kare, 20 ps aralık. MM-GBSA penceresi: kare 251-500 (son 5 ns).
 set -euo pipefail
-CPPTRAJ=/home/furkanakkaya/.conda/envs/md_env/bin/cpptraj
+CPPTRAJ=${CPPTRAJ:-cpptraj}
 P02=/mnt/HHD/portfolio-projects/P02-MMGBSA
 cd "$(dirname "$0")"
 for g in WT T790M C797S_triple; do
